@@ -1,4 +1,4 @@
-<?php namespace Wutongwan\VendorZmxy\Zmxy;
+<?php namespace Wutongwan\VendorZmxy;
 
 class  ZmxyOperator
 {

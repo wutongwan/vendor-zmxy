@@ -1,4 +1,4 @@
-<?php namespace Wutongwan\VendorZmxy\Zmxy\Request;
+<?php namespace Wutongwan\VendorZmxy\Request;
 /**
  * ZHIMA API: zhima.auth.info.authorize request
  *
